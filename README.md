@@ -1,2 +1,2 @@
 # GameCompetition
-ai game confrontation system
+ai game confrontation system!
